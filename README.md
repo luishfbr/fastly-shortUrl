@@ -8,4 +8,7 @@ Ao criar uma nova url, será enviado ao FrontEnd o Slug para redirecionamento, o
 <br/>
 Todos os tratamentos de erros feitos, caso tenha alguma dúvida, entre em contato:
 <br/>
+Utilizei o docker para rodar a aplicação local e realizar os testes.
+<br/>
+<br/>
 luishenriquefonte223@gmail.com
