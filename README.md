@@ -1,6 +1,6 @@
 # FASTLY-SHORTURL
 
-Aplicativo desenvolvido utilizando Vite/ReactTs + SWC com ShadcnUI e Axios no FrontEnd, no backend com NodeJs/Elysia e Prisma... 
+Aplicativo desenvolvido utilizando Vite/ReactTs + SWC com ShadcnUI e Axios no FrontEnd, no backend com NodeJs/Elysia/Prisma e Sqlite... 
 <br/>
 Ele possui Endpoints de criação e de fetch dos slugs e urls originais, nada mais é do que um encurtador de URL, o banco de dados possui algumas curiosidades, como por exemplo contador de clicks na URL, ao criar uma URL encurtada, essa URL terá como tempo 1 dia, após isso será expirada.
 <br/>
